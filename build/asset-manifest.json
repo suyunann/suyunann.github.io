@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suyunann/suyunann.github.io.git/static/css/main.8b69326e.css",
+    "main.js": "/suyunann/suyunann.github.io.git/static/js/main.9b666ba6.js",
+    "static/js/787.d3befce1.chunk.js": "/suyunann/suyunann.github.io.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/suyunann/suyunann.github.io.git/index.html",
+    "main.8b69326e.css.map": "/suyunann/suyunann.github.io.git/static/css/main.8b69326e.css.map",
+    "main.9b666ba6.js.map": "/suyunann/suyunann.github.io.git/static/js/main.9b666ba6.js.map",
+    "787.d3befce1.chunk.js.map": "/suyunann/suyunann.github.io.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b69326e.css",
+    "static/js/main.9b666ba6.js"
+  ]
+}
